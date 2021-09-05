@@ -3,7 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "record": "node core/record/index.js"
+  },
   "devDependencies": {
-    "@playwright/test": "^1.14.0"
+    "@playwright/test": "^1.14.0",
+    "http-server": "^13.0.1",
+    "pm2": "^5.1.1",
+    "shelljs": "^0.8.4",
+    "yargs": "^17.1.1"
   }
 }
