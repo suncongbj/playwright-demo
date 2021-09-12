@@ -1,0 +1,1 @@
+exports.rules = ` www.baidu.com resWrite://./core/record/gen-mock.js`;
