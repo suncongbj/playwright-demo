@@ -1,2 +1,2 @@
 exports.name = `test`;
-exports.rules = `https://translate.google.cn/ resWrite:///Users/cong/www/playwright-demo/test.js`;
+exports.rules = `www.baidu.com resWrite:///Users/cong/www/playwright-demo/whistle-req-gen`;
